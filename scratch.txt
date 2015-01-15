@@ -1,3 +1,14 @@
+Raspberry Pi
+Need to install kerberos and zephyr
+user root
+     will handle temperature and humidity sensor notifications
+user door
+     will be a restricted shell that will allow for k5login and just run a script to activate door strike
+
+maybe use remctl to control lighting in the room?
+
+perhaps also have a camera system for monitoring?
+
 If I plan on doing things in python, which I don't think I want to do... http://stackoverflow.com/questions/89228/calling-an-external-command-in-python
 
 /usr/athena/bin/zwrite -d -O auto -c leee -i WHOAMI -m WHO AM I HELP
