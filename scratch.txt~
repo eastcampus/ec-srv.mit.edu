@@ -1,0 +1,2 @@
+/usr/athena/bin/zwrite -d -O auto -c leee -i WHOAMI -m WHO AM I HELP
+init daemon/ec-srv.mit.edu -k -t ec-srv-daemon-keytab
